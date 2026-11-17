@@ -47,7 +47,7 @@ jobs:
         run: npm run build
         env:
           GITHUB_PAGES: 'true'
-          VITE_SITE_URL: https://papajani2097-netizen.github.io/recoverx-data-rescue
+          VITE_SITE_URL: https://umerconvertoffice-code.github.io/recoverx-data-rescue
           VITE_SUPABASE_URL: ${{ vars.VITE_SUPABASE_URL }}
           VITE_SUPABASE_ANON_KEY: ${{ vars.VITE_SUPABASE_ANON_KEY }}
           VITE_SUPPORT_EMAIL: ${{ vars.VITE_SUPPORT_EMAIL }}

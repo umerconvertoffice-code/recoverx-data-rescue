@@ -5,7 +5,7 @@ export interface PageMetadata {
 }
 
 export const canonicalBase = (
-  import.meta.env.VITE_SITE_URL || 'https://papajani2097-netizen.github.io/recoverx-data-rescue'
+  import.meta.env.VITE_SITE_URL || 'https://umerconvertoffice-code.github.io/recoverx-data-rescue'
 ).replace(/\/+$/, '');
 
 export const pageMetadata: PageMetadata[] = [

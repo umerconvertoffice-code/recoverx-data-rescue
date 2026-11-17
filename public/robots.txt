@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /recoverx-data-rescue/account/
 Disallow: /recoverx-data-rescue/admin/
-Sitemap: https://papajani2097-netizen.github.io/recoverx-data-rescue/sitemap.xml
+Sitemap: https://umerconvertoffice-code.github.io/recoverx-data-rescue/sitemap.xml

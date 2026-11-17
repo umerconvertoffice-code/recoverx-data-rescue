@@ -52,7 +52,7 @@ Without Supabase configuration, local file tools remain usable and account featu
 
 ## GitHub Pages
 
-The `.github/workflows/pages.yml` workflow tests, prerenders, and deploys `dist/` when pushed to `main`. For this repository, the expected site URL is `https://papajani2097-netizen.github.io/recoverx-data-rescue/`. Configure **Settings → Pages → Build and deployment → GitHub Actions**. To enable account services on the deployed site, add repository variables named `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`, and optionally `VITE_SUPPORT_EMAIL`.
+The `.github/workflows/pages.yml` workflow tests, prerenders, and deploys `dist/` when pushed to `main`. For this repository, the expected site URL is `https://umerconvertoffice-code.github.io/recoverx-data-rescue/`. Configure **Settings → Pages → Build and deployment → GitHub Actions**. To enable account services on the deployed site, add repository variables named `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`, and optionally `VITE_SUPPORT_EMAIL`.
 
 The default GitHub Pages hostname is configured; no custom domain or DNS change is required. If you later decide to use `recoverx.com`, confirm domain control and update the Vite base path, canonical URLs, sitemap, and Pages settings together.
 

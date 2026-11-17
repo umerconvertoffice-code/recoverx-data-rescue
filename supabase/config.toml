@@ -1,8 +1,8 @@
 project_id = "recoverx"
 
 [auth]
-site_url = "https://papajani2097-netizen.github.io/recoverx-data-rescue/"
+site_url = "https://umerconvertoffice-code.github.io/recoverx-data-rescue/"
 additional_redirect_urls = [
-  "https://papajani2097-netizen.github.io/recoverx-data-rescue/account/",
+  "https://umerconvertoffice-code.github.io/recoverx-data-rescue/account/",
   "http://localhost:5173/account/"
 ]
